@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi, I'm Manish Bhakat</h1>
 <h3 align="center">A UG B-Tech student currently in 3rd year and is working to be a Full-Stack Developer.</h3>
 
