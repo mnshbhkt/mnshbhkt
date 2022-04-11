@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Manish Bhakat</h1>
-<h3 align="center">A UG B-Tech student currently in 3rd year and is working to be a Full-Stack Developer.</h3>
+<h3 align="center">A UG B-Tech student currently in 3rd year and is working to be a Full-Stack Developer| Part-time Graphic Designer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mnshbhkt/manish_portfolio](https://github.com/mnshbhkt/manish_portfolio)
 
