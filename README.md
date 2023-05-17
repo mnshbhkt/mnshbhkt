@@ -6,8 +6,8 @@
 
 - 📫 How to reach me **manish.bhakat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WiJL3XS9hpo2hh_loZ6Gts8osPGuv9g5/view?usp=sharing](https://drive.google.com/file/d/1WiJL3XS9hpo2hh_loZ6Gts8osPGuv9g5/view?usp=sharing)
-
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1WiJL3XS9hpo2hh_loZ6Gts8osPGuv9g5/view?usp=sharing](https://drive.google.com/file/d/1WiJL3XS9hpo2hh_loZ6Gts8osPGuv9g5/view?usp=sharing)
+ -->
 - ⚡ Fun fact **Sometimes I can be very funny**
 
 <h3 align="left">Connect with me:</h3>
